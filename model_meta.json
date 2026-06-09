@@ -1,0 +1,11 @@
+{
+  "test_accuracy": 0.5427435636520386,
+  "test_loss": 2.908289909362793,
+  "img_size": 128,
+  "classes": [
+    "cat",
+    "dog",
+    "gungan"
+  ],
+  "epochs_trained": 20
+}
