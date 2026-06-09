@@ -1,7 +1,7 @@
 data/
 dataset_raw/
 *.h5
-*.zip
+cat_dog_1.zip
 *.csv
 .DS_Store
 __pycache__/
