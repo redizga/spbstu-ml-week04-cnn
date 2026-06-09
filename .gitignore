@@ -1,6 +1,6 @@
 data/
 dataset_raw/
-*.h5
+# *.h5  — weights are tracked in git
 cat_dog_1.zip
 *.csv
 .DS_Store
